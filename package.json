@@ -1,19 +1,12 @@
 {
-  "name": "scrap2",
+  "name": "scrap2,
   "version": "1.0.0",
-  "description": "",
-  "main": "scraper.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.10",
-    "express": "^4.19.2",
-    "puppeteer": "^22.15.0"
+    "puppeteer": "^10.0.0",
+    "express": "^4.17.1"
   }
 }
