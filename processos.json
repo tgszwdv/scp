@@ -1,0 +1,97 @@
+{
+  "processosAbertos": [
+    {
+      "titulo": "PSIN-2025/UFGD",
+      "descricao": "Processo Seletivo Licenciatura Intercultural Indígena - Teko Arandu e em Pedagogia Intercultural Indígena",
+      "periodo": "01/08/2024 a 23/08/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/licenciatura-indigena-teko-arandu/psin-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/LICENCIATURA-INDIGENA-TEKO-ARANDU/PSIN%202025/Edital_de_Abertura_CCS_10_PSIN_2025.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR 2025/UFGD",
+      "descricao": "Processo Seletivo Vestibular UFGD 2025",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/processo-seletivo-vestibular-psv/psv-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROCESSO-SELETIVO-VESTIBULAR-PSV/PSV%20-%202025/Edital_de_Abertura_CCS_05_PSV_2025_consolidado_2507.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR LETRAS-LIBRAS LicEaD 2025/UFGD",
+      "descricao": "Processo Seletivo Vestibular Letras Libras Licenciatura 2025 da UFGD",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/processo-seletivo-vestibular-psv/psv-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROCESSO-SELETIVO-VESTIBULAR-PSV/PSV%20-%202025/Edital_de_Abertura_CCS_05_PSV_2025_consolidado_2507.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR LEDUC 2025/UFGD",
+      "descricao": "Processo Seletivo do Curso de Licenciatura em Educação do Campo 2025",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/licenciatura-em-educacao-do-campo-psleduc/psleduc-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/LICENCIATURA-EM-EDUCACAO-DO-CAMPO-PSLEDUC/PSLEDUC%20-%202025/Edital_de_Abertura_CCS_06_PSLEDUC_2025.pdf"
+    }
+  ],
+  "processosEmAndamento": [
+    {
+      "titulo": "PSIN-2025/UFGD",
+      "descricao": "Processo Seletivo Licenciatura Intercultural Indígena - Teko Arandu e em Pedagogia Intercultural Indígena",
+      "periodo": "01/08/2024 a 23/08/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/licenciatura-indigena-teko-arandu/psin-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/LICENCIATURA-INDIGENA-TEKO-ARANDU/PSIN%202025/Edital_de_Abertura_CCS_10_PSIN_2025.pdf"
+    },
+    {
+      "titulo": "PSIE-2024.2/UFGD",
+      "descricao": "Processo Seletivo de Ingresso Extravestibular para reintegração de ex-alunos da UFGD",
+      "periodo": "22/07/2024 a 02/08/2024",
+      "url": "https://portal.ufgd.edu.br/secao/editais-de-ingresso-de-estudantes/reingresso",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/CENTRO-DE-SELECAO/Edital_de_Abertura_PROGRAD_n_22_-_Programa_de_Reintegrao_de_Ex-Alunos_-_PSIE-_.pdf"
+    },
+    {
+      "titulo": "PSPE-2024/UFGD",
+      "descricao": "Processo Seletivo para Vagas de Estágio para Atuação no Núcleo Multidisciplinar para a Inclusão e Acessibilidade – NUMIAC",
+      "periodo": "17/07/2024 a 31/07/2024",
+      "url": "https://www.ufgd.edu.br/vestibular/pro-estagio/pspe-2024",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PRO-ESTAGIO/PSPE%20-%202024/EDITAL_DE_ABERTURA_CCS_09_PSPE2024_Numiac.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR LETRAS-LIBRAS LicEaD 2025/UFGD",
+      "descricao": "Processo Seletivo Vestibular Letras Libras Licenciatura 2025 da UFGD",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/processo-seletivo-vestibular-psv/psv-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROCESSO-SELETIVO-VESTIBULAR-PSV/PSV%20-%202025/Edital_de_Abertura_CCS_05_PSV_2025_consolidado_2507.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR 2025/UFGD",
+      "descricao": "Processo Seletivo Vestibular UFGD 2025",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/processo-seletivo-vestibular-psv/psv-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROCESSO-SELETIVO-VESTIBULAR-PSV/PSV%20-%202025/Edital_de_Abertura_CCS_05_PSV_2025_consolidado_2507.pdf"
+    },
+    {
+      "titulo": "VESTIBULAR LEDUC 2025/UFGD",
+      "descricao": "Processo Seletivo do Curso de Licenciatura em Educação do Campo 2025",
+      "periodo": "15/07/2024 a 13/09/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/licenciatura-em-educacao-do-campo-psleduc/psleduc-2025",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/LICENCIATURA-EM-EDUCACAO-DO-CAMPO-PSLEDUC/PSLEDUC%20-%202025/Edital_de_Abertura_CCS_06_PSLEDUC_2025.pdf"
+    },
+    {
+      "titulo": "PSAH-2024.2/UFGD",
+      "descricao": "Processo Seletivo destinado a refugiados, asilados políticos, apátridas, portadores de visto temporário de acolhida humanitária, portadores de autorização de residência para fins de acolhida humanitária",
+      "periodo": "15/07/2024 a 24/07/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/psah/psah-2024-2",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PSAH/PSAH-2024.2/Edital_Abertura_CCS_07_PSAH_2024.2.pdf"
+    },
+    {
+      "titulo": "PSPVO-2024.2/UFGD",
+      "descricao": "Processo Seletivo para Preenchimento de Vagas Ociosas por Transferência Voluntária e para Portadores de Diploma da UFGD",
+      "periodo": "15/07/2024 a 24/07/2024",
+      "url": "https://portal.ufgd.edu.br/vestibular/pspvo/pspvo-2024-2",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/PSPVO/PSPVO%20-%202024.2/Edital_Abertura_CCS_08_PSPVO_2024.2_consolidado%2016.07.pdf"
+    },
+    {
+      "titulo": "PSSPS-2024.2/UFGD",
+      "descricao": "Processo Seletivo Simplificado Professor Substituto (PSSPS-2024.2)",
+      "periodo": "10/07/2024 a 19/07/2024",
+      "url": "https://www.ufgd.edu.br/vestibular/selecao-de-professor-substituto-pssps/pssps-2024-2",
+      "edital": "https://files.ufgd.edu.br/arquivos/arquivos/78/SELECAO-DE-PROFESSOR-SUBSTITUTO-PSSPS/PSSPS%20-%202024.2/Edital_de_Abertura_CCS_04_PSSPS-2024-2_consolidado%2012.07.pdf"
+    }
+  ]
+}

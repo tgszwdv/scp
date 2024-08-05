@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Data</title>
+</head>
+<body>
+    <button id="updateButton">Update Data</button>
+    <script>
+        document.getElementById('updateButton').addEventListener('click', function() {
+            fetch('/update-data')
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data.message);
+                });
+        });
+    </script>
+</body>
+</html>
