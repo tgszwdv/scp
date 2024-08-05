@@ -1,6 +1,6 @@
 const express = require('express');
 const fs = require('fs');
-const scrape = require('./scraper');
+const scrape = require('./scraper'); // Ajuste conforme o nome do arquivo de scraping
 
 const app = express();
 const PORT = process.env.PORT || 3000;
