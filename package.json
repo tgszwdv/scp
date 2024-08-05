@@ -1,12 +1,22 @@
 {
   "name": "scrap2",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "Projeto para scraping e API com Express e Puppeteer",
+  "main": "server.js",    // Altere para o arquivo principal correto
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo \"No build script specified\" && exit 1" // Adicione se necessário
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "puppeteer": "^10.0.0",
-    "express": "^4.17.1"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.19.2",  // Ou "5.0.0" se compatível
+    "puppeteer": "^22.15.0"
+  },
+  "engines": {
+    "node": "18.x"  // Especifique a versão do Node.js se necessário
   }
 }
