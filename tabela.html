@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Table</title>
+</head>
+<body>
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Período</th>
+                <th>URL</th>
+                <th>Edital</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script>
+        function updateTable(data) {
+            const tableBody = document.getElementById('dataTable').querySelector('tbody');
+            tableBody.innerHTML = ''; // Limpa a tabela
+            data.processosAbertos.concat(data.processosEmAndamento).forEach(processo => {
+                const row = document.createElement('tr');
+                const cell1 = document.createElement('td');
+                cell1.textContent = processo.titulo;
+                const cell2 = document.createElement('td');
+                cell2.textContent = processo.descricao;
+                const cell3 = document.createElement('td');
+                cell3.textContent = processo.periodo;
+                const cell4 = document.createElement('td');
+                const link4 = document.createElement('a');
+                link4.href = processo.url;
+                link4.textContent = 'Link';
+                cell4.appendChild(link4);
+                const cell5 = document.createElement('td');
+                const link5 = document.createElement('a');
+                link5.href = processo.edital;
+                link5.textContent = 'Edital';
+                cell5.appendChild(link5);
+                row.appendChild(cell1);
+                row.appendChild(cell2);
+                row.appendChild(cell3);
+                row.appendChild(cell4);
+                row.appendChild(cell5);
+                tableBody.appendChild(row);
+            });
+        }
+
+        function fetchData() {
+            fetch('/get-data')
+                .then(response => response.json())
+                .then(data => {
+                    updateTable(data);
+                });
+        }
+
+        // Chame fetchData para inicializar a tabela
+        fetchData();
+    </script>
+</body>
+</html>
